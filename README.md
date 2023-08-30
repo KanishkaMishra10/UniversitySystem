@@ -1,0 +1,3 @@
+# UniversitySystem
+
+### Interface: ICollege
